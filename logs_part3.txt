@@ -1,0 +1,9 @@
+98b7da2 (HEAD -> develop, origin/develop) HEAD@{0}: pull: Fast-forward
+e889abf (origin/feature1, feature1) HEAD@{1}: checkout: moving from feature4 to develop
+ee08d90 (origin/feature4, feature4) HEAD@{2}: checkout: moving from develop to feature4
+e889abf (origin/feature1, feature1) HEAD@{3}: reset: moving to HEAD~5
+98b7da2 (HEAD -> develop, origin/develop) HEAD@{4}: reset: moving to HEAD~2
+1d84fe5 HEAD@{5}: checkout: moving from feature4 to develop
+ee08d90 (origin/feature4, feature4) HEAD@{6}: checkout: moving from develop to feature4
+1d84fe5 HEAD@{7}: commit: readme change
+baf37b1 HEAD@{8}: commit: index change
