@@ -1,0 +1,11 @@
+0bad1b7 (HEAD -> develop, origin/develop) HEAD@{0}: merge master: Merge made by the 'recursive' strategy.
+a1a95fa HEAD@{1}: checkout: moving from feature5 to develop
+da3ed3a (origin/feature5, feature5) HEAD@{2}: rebase (finish): returning to refs/heads/feature5
+da3ed3a (origin/feature5, feature5) HEAD@{3}: rebase (start): checkout HEAD~3
+da3ed3a (origin/feature5, feature5) HEAD@{4}: rebase (finish): returning to refs/heads/feature5
+da3ed3a (origin/feature5, feature5) HEAD@{5}: rebase (start): checkout feature5
+da3ed3a (origin/feature5, feature5) HEAD@{6}: commit: third commit
+e3dcdb8 HEAD@{7}: commit: change forcommit
+da25920 HEAD@{8}: commit: add forcommit
+a1a95fa HEAD@{9}: checkout: moving from develop to feature5
+a1a95fa HEAD@{10}: checkout: moving from master to develop
