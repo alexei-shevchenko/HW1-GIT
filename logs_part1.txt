@@ -1,0 +1,67 @@
+Работа@DESKTOP-OK1HQO3 MINGW64 /d/HillelPro/HW1-GIT (master)
+$ git reflog
+3ad6716 (HEAD -> master, origin/master) HEAD@{0}: checkout: moving from develop to mastera1a95fa (origin/develop, develop) HEAD@{1}: rebase (skip) (finish): returning to refs/heads/develop
+a1a95fa (origin/develop, develop) HEAD@{2}: commit: rebase conflict
+ee08d90 (origin/feature4, feature4) HEAD@{3}: rebase (start): checkout feature4
+812a242 (origin/feature3, feature3) HEAD@{4}: rebase (finish): returning to refs/heads/develop
+812a242 (origin/feature3, feature3) HEAD@{5}: rebase (start): checkout feature3
+b931685 HEAD@{6}: checkout: moving from feature4 to develop
+ee08d90 (origin/feature4, feature4) HEAD@{7}: checkout: moving from feature3 to feature4
+812a242 (origin/feature3, feature3) HEAD@{8}: checkout: moving from feature4 to feature3
+ee08d90 (origin/feature4, feature4) HEAD@{9}: checkout: moving from feature3 to feature4
+812a242 (origin/feature3, feature3) HEAD@{10}: checkout: moving from develop to feature3
+b931685 HEAD@{11}: checkout: moving from feature4 to develop
+ee08d90 (origin/feature4, feature4) HEAD@{12}: commit: change styles
+b931685 HEAD@{13}: checkout: moving from feature3 to feature4
+812a242 (origin/feature3, feature3) HEAD@{14}: commit: add styles
+b931685 HEAD@{15}: checkout: moving from feature4 to feature3
+b931685 HEAD@{16}: checkout: moving from feature3 to feature4
+b931685 HEAD@{17}: checkout: moving from develop to feature3
+b931685 HEAD@{18}: checkout: moving from develop to develop
+b931685 HEAD@{19}: commit (merge): merge conflicts
+e889abf (origin/feature1, feature1) HEAD@{20}: merge feature1: Fast-forward
+ad98b1d HEAD@{21}: checkout: moving from feature2 to develop
+fe3b78d (origin/feature2, feature2) HEAD@{22}: checkout: moving from feature1 to feature2e889abf (origin/feature1, feature1) HEAD@{23}: checkout: moving from develop to feature1
+ad98b1d HEAD@{24}: checkout: moving from feature2 to develop
+fe3b78d (origin/feature2, feature2) HEAD@{25}: commit: commit 5
+ad98b1d HEAD@{26}: checkout: moving from develop to feature2
+ad98b1d HEAD@{27}: checkout: moving from feature1 to develop
+e889abf (origin/feature1, feature1) HEAD@{28}: commit: commit 4
+62cb565 HEAD@{29}: commit: commit 3
+ad98b1d HEAD@{30}: checkout: moving from develop to feature1
+ad98b1d HEAD@{31}: commit: second commit
+3ad6716 (HEAD -> master, origin/master) HEAD@{32}: checkout: moving from master :...skipping...
+3ad6716 (HEAD -> master, origin/master) HEAD@{0}: checkout: moving from develop to master
+a1a95fa (origin/develop, develop) HEAD@{1}: rebase (skip) (finish): returning to refs/heads/develop
+a1a95fa (origin/develop, develop) HEAD@{2}: commit: rebase conflict
+ee08d90 (origin/feature4, feature4) HEAD@{3}: rebase (start): checkout feature4
+812a242 (origin/feature3, feature3) HEAD@{4}: rebase (finish): returning to refs/heads/develop
+812a242 (origin/feature3, feature3) HEAD@{5}: rebase (start): checkout feature3
+b931685 HEAD@{6}: checkout: moving from feature4 to develop
+ee08d90 (origin/feature4, feature4) HEAD@{7}: checkout: moving from feature3 to feature4
+812a242 (origin/feature3, feature3) HEAD@{8}: checkout: moving from feature4 to feature3
+ee08d90 (origin/feature4, feature4) HEAD@{9}: checkout: moving from feature3 to feature4
+812a242 (origin/feature3, feature3) HEAD@{10}: checkout: moving from develop to feature3
+b931685 HEAD@{11}: checkout: moving from feature4 to develop
+ee08d90 (origin/feature4, feature4) HEAD@{12}: commit: change styles
+b931685 HEAD@{13}: checkout: moving from feature3 to feature4
+812a242 (origin/feature3, feature3) HEAD@{14}: commit: add styles
+b931685 HEAD@{15}: checkout: moving from feature4 to feature3
+b931685 HEAD@{16}: checkout: moving from feature3 to feature4
+b931685 HEAD@{17}: checkout: moving from develop to feature3
+b931685 HEAD@{18}: checkout: moving from develop to develop
+b931685 HEAD@{19}: commit (merge): merge conflicts
+e889abf (origin/feature1, feature1) HEAD@{20}: merge feature1: Fast-forward
+ad98b1d HEAD@{21}: checkout: moving from feature2 to develop
+fe3b78d (origin/feature2, feature2) HEAD@{22}: checkout: moving from feature1 to feature2
+e889abf (origin/feature1, feature1) HEAD@{23}: checkout: moving from develop to feature1
+ad98b1d HEAD@{24}: checkout: moving from feature2 to develop
+fe3b78d (origin/feature2, feature2) HEAD@{25}: commit: commit 5
+ad98b1d HEAD@{26}: checkout: moving from develop to feature2
+ad98b1d HEAD@{27}: checkout: moving from feature1 to develop
+e889abf (origin/feature1, feature1) HEAD@{28}: commit: commit 4
+62cb565 HEAD@{29}: commit: commit 3
+ad98b1d HEAD@{30}: checkout: moving from develop to feature1
+ad98b1d HEAD@{31}: commit: second commit
+3ad6716 (HEAD -> master, origin/master) HEAD@{32}: checkout: moving from master to develop
+3ad6716 (HEAD -> master, origin/master) HEAD@{33}: commit (initial): first commit
